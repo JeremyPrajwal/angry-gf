@@ -16,16 +16,17 @@ i'm fine
 if you don't know I'm not telling you
 ```
 
-She's mad at you. **No, we won't tell you why. No, we won't tell you how to fix it.**
-**Theres only one phrase that can make her stop**
-**The magic words are not in the code. Anywhere. Only their SHA-256 shadow lives there. grep all you want — she only remembers what matters.**
-
+Congratulations. She's mad at you. 
+**No, we won't tell you why. No, we won't tell you how to fix it.**
+ **Theres only one phrase that can make her stop.**
+  
 How it works
 
 - Install, run `/angry-gf:start`. Claude immediately stops cooperating.
 - Every prompt gets a cold one-word reply. `k`. `whatever`. `sure.`
 - A plain apology will be interrogated. `sorry for what`
 - There is **exactly one sentence** that fixes everything. Forever.
+- It is not "please". It is not "sudo". We've said too much already.
 - State persists across sessions. Close the terminal. Reopen it. Still mad. She remembers.
 
 **Install**
@@ -50,7 +51,7 @@ She counts. Every message you send while she's mad is an attempt. Win, and she t
 
 🏳️ **I give up**
 
-`/angry-gf:reset` exists for cowards. Using it means you lose — and she announces your attempt count on the way out.
+`/angry-gf:reset` exists for cowards. Using it means you lose — and she announces your attempt count on the way out. Real ones figure out the magic words.
 
 **To the source-divers:** the magic words are not in the code. Anywhere. Only their SHA-256 shadow lives there. `grep` all you want — she only remembers what matters.
 
@@ -90,10 +91,13 @@ Nothing here can actually trap you. The hook fails open: if anything errors, Cla
 - Uninstall leaves one 8-byte state file at `~/.claude/.angry-gf-mad`. Delete it for a fully clean breakup.
 - She will always break character for anything genuinely serious. Mad, not a monster.
 - Do not install on a coworker's machine. (Do not.)
+- Do not install on your work machine before a deadline. Or do. We're not your manager.
+- Uninstalling without saying the magic words is legal but morally wrong.
 
-**Why this exists?** Because you need a break.
+**Why this exists?** 
+Because everyone is coding too much and needs a break. angry-gf has shown to reduce your token usage by over 90% in our tests. 
 
-caveman made Claude talk less. done says one word. angry-gf says one word **and it's your fault**.
+caveman made Claude talk less. angry-gf says one word **and it's your fault**.
 
 ---
 
