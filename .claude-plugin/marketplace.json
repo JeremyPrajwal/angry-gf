@@ -1,0 +1,7 @@
+{
+  "name": "angry-gf",
+  "owner": { "name": "JeremyPrajwal" },
+  "plugins": [
+    { "name": "angry-gf", "source": "./", "description": "She's mad. Figure it out." }
+  ]
+}
