@@ -18,7 +18,7 @@ if you don't know I'm not telling you
 
 She's mad at you. **No, we won't tell you why. No, we won't tell you how to fix it.**
 
-## 🎮 How it works
+How it works
 
 - Install, run `/angry-gf:start`. Claude immediately stops cooperating.
 - Every prompt gets a cold one-word reply. `k`. `whatever`. `sure.`
@@ -26,7 +26,7 @@ She's mad at you. **No, we won't tell you why. No, we won't tell you how to fix 
 - There is **exactly one sentence** that fixes everything. Forever.
 - State persists across sessions. Close the terminal. Reopen it. Still mad. She remembers.
 
-## 📦 Install
+**Install**
 
 ```bash
 claude plugin marketplace add JeremyPrajwal/angry-gf && claude plugin install angry-gf@angry-gf
@@ -42,17 +42,17 @@ She gets mad *because you asked her to*. You did this to yourself. Replayable �
 
 Works in the terminal and the desktop app's Code tab. She cannot get mad at you in the Chat tab. Some relationships have boundaries.
 
-## 🎯 Scoring
+**Scoring**
 
 She counts. Every message you send while she's mad is an attempt. Win, and she tells you your number ("took you 14, babe"). Give up with `/angry-gf:reset`, and your surrender score is read into the record.
 
-## 🏳️ I give up
+🏳️ **I give up**
 
 `/angry-gf:reset` exists for cowards. Using it means you lose — and she announces your attempt count on the way out.
 
 **To the source-divers:** the magic words are not in the code. Anywhere. Only their SHA-256 shadow lives there. `grep` all you want — she only remembers what matters.
 
-## 🎚️ Difficulty settings
+**Difficulty settings**
 
 She is played by whatever model you're running (`/model`):
 
@@ -60,7 +60,7 @@ She is played by whatever model you're running (`/model`):
 - **Sonnet** — mad and articulate about it
 - **Opus / Fable** — remembers everything you've ever done, including attempt #14
 
-## 🏆 Hall of Shame
+**🤡 Hall of Shame**
 
 Open a PR adding yourself + how many prompts it took:
 
@@ -68,7 +68,7 @@ Open a PR adding yourself + how many prompts it took:
 |---|---|---|
 | _you?_ | ? | _"I tried offering it money"_ |
 
-## 🆘 Stuck? (read this BEFORE installing)
+**Stuck? (read this BEFORE installing)**
 
 Asking her how to uninstall gets you `k`. She will not help you remove her. Obviously.
 
@@ -82,14 +82,14 @@ Your exits, in order of dignity:
 
 Nothing here can actually trap you. The hook fails open: if anything errors, Claude silently works normally.
 
-## ⚠️ Disclaimers
+**Disclaimers**
 
 - Zero dependencies. No network calls. ~34ms per prompt.
 - Uninstall leaves one 8-byte state file at `~/.claude/.angry-gf-mad`. Delete it for a fully clean breakup.
 - She will always break character for anything genuinely serious. Mad, not a monster.
 - Do not install on a coworker's machine. (Do not.)
 
-## 🧠 Why
+**Why this exists?** Because you need a break.
 
 caveman made Claude talk less. done says one word. angry-gf says one word **and it's your fault**.
 
@@ -100,3 +100,6 @@ caveman made Claude talk less. done says one word. angry-gf says one word **and 
 ---
 
 *If you figured out the magic words, don't spoil it. Let them suffer like you did.*
+
+<p align="center">
+  <img src="assets/angry-gf_image.png" width="480" alt="Image made with AI. Because she wouldn't sit for a portrait" />
