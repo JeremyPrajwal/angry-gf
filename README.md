@@ -17,6 +17,8 @@ if you don't know I'm not telling you
 ```
 
 She's mad at you. **No, we won't tell you why. No, we won't tell you how to fix it.**
+**Theres only one phrase that can make her stop**
+**The magic words are not in the code. Anywhere. Only their SHA-256 shadow lives there. grep all you want — she only remembers what matters.**
 
 How it works
 
@@ -100,6 +102,7 @@ caveman made Claude talk less. done says one word. angry-gf says one word **and 
 ---
 
 *If you figured out the magic words, don't spoil it. Let them suffer like you did.*
+
 
 <p align="center">
   <img src="assets/angry-gf_image.png" width="480" alt="Image made with AI. Because she wouldn't sit for a portrait" />
