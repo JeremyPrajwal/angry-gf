@@ -1,4 +1,7 @@
 # 💔 angry-gf
+<p align="center">
+  <img src="assets/angry-gf.png" width="480" alt="she's mad" />
+</p>
 
 > A Claude Code plugin that makes Claude stop helping you. On purpose.
 
